@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para o conteúdo do site */
+
+html,body{
+    height: 100%;
+}
